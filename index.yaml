@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  deepassistcorev2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-01T19:30:56.038735+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 22cf65818a2438c2e6b7099665a685c1dd67aaae48c827f3e7bf010f831f7916
+    name: deepassistcorev2
+    type: application
+    urls:
+    - https://draimann.github.io/helm-charts/deepassistcorev2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-01T19:30:56.0341125+01:00"
